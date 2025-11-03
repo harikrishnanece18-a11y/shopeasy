@@ -5,7 +5,7 @@ const name='CodeTest';
 
 app.get("/",(req,res)=>
 {
-    const message='welcome to shopEasy from ${name}!'
+    const message='welcome to shopEasy from harikrishnan!'
     res.send(message);
 
 })
